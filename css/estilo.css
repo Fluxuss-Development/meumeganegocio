@@ -1,0 +1,7 @@
+body{
+  height: 100%;
+  background-image: url('../imagens/fundo.png');
+  background-position: top center;
+  padding: 0;
+  overflow: hidden;
+}
